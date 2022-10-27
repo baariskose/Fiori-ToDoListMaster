@@ -1,0 +1,6 @@
+/* Enter your custom styles here */
+.itemText[data-is-completed] .sapMObjectIdentifierTitle .sapMText {
+    color: green !important;
+    text-decoration: line-through;
+  }
+  
